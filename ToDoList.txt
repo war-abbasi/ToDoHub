@@ -1,0 +1,4 @@
+Task,Study Python,Complete Chapter 3 exercises,25 March 2024
+Task,Submit Project,Finalize project submission,26 March 2024
+Task,Grocery Shopping,Buy groceries for the week,27 March 2024
+Task,Exercise,Daily workout routine,27 March 2024
